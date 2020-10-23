@@ -4,7 +4,7 @@ I recently worked as a volunteer for a startup, where I built a ride sharing app
 
 I released a fully functional alpha version to Google's playstore. The code is proprietary and is not available. Below is a snapshot of the app
 
-[<img src="images/Ziphawk_app.png" width="600" height="653" />](https://www.youtube.com/embed/QasZwk4DIio)
+[<img src="images/ridesharing_app.png" width="600" height="653" />](https://www.youtube.com/embed/QasZwk4DIio)
 
 Left: Rider app running on **iPhone XR**
 Right: Driver app running on **Google Pixel 3a** 
